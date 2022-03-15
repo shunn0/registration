@@ -1,4 +1,4 @@
-###### School Course Registration Service
+# School Course Registration Service
 
 
 How To Run:
